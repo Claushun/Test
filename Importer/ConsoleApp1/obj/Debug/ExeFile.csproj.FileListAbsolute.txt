@@ -1,0 +1,6 @@
+C:\Users\Miguel\Desktop\ClaushunRepo\Importer\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Miguel\Desktop\ClaushunRepo\Importer\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Miguel\Desktop\ClaushunRepo\Importer\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Miguel\Desktop\ClaushunRepo\Importer\ConsoleApp1\obj\Debug\ExeFile.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\ClaushunRepo\Importer\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Miguel\Desktop\ClaushunRepo\Importer\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
